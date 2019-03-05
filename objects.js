@@ -4,8 +4,10 @@ var playlist = {
   pinkfloyd: `Money`
 };
 
-
-var updatePlaylist 
+/////
+function updatePlaylist(playlist, artistName, songTitle) {
+  
+}
 
 updatePlaylist.talkingheads = `Burning Down the House`;
 
