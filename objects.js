@@ -1,7 +1,7 @@
 var playlist = {
   slowdive : 'Alison',
   mybloodyvalentine : 'Sometimes'
-}
+};
 
 /////
 function updatePlaylist(playlist, artistName, songTitle) {
