@@ -6,7 +6,7 @@ var playlist = {
 /////
 function updatePlaylist(playlist, artistName, songTitle) {
   
-  playlist[Phil Ochs] : 'Burning Down the House'
+  playlist[`Phil Ochs`] = 'Burning Down the House';
 }
 
 /////
