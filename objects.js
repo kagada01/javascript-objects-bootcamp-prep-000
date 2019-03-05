@@ -8,7 +8,3 @@ var playlist = {
 function updatePlaylist(playlist, artistName, songTitle) {
   
 }
-
-updatePlaylist.talkingheads = `Burning Down the House`;
-
-var updatePlaylist;
