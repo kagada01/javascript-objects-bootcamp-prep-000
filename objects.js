@@ -1,5 +1,5 @@
 var playlist = {
-  playlist.'Slowdive' = 'Alison';
+  'Slowdive' = 'Alison';
   playlist['My Bloody Valentine'] = 'Sometimes';
 }
 
