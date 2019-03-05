@@ -1,3 +1,3 @@
 var playlist = {aerosmith: `Dream On`};
 
-var updatePlaylist
+var updatePlaylist;
