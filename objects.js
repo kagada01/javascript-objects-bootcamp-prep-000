@@ -4,4 +4,6 @@ var playlist = {
   pinkfloyd: `Money`
 };
 
+playlist.talkingheads = `Burning Down the House`;
+
 var updatePlaylist;
